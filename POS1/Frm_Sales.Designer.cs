@@ -455,9 +455,9 @@
             this.labelControl7.Appearance.Options.UseForeColor = true;
             this.labelControl7.Location = new System.Drawing.Point(1051, 123);
             this.labelControl7.Name = "labelControl7";
-            this.labelControl7.Size = new System.Drawing.Size(56, 25);
+            this.labelControl7.Size = new System.Drawing.Size(57, 25);
             this.labelControl7.TabIndex = 14;
-            this.labelControl7.Text = "الـــــــمــــورد";
+            this.labelControl7.Text = "الـــــــزبـــــون";
             // 
             // nudQty
             // 
@@ -570,7 +570,7 @@
             this.groupControl1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.groupControl1.Size = new System.Drawing.Size(1114, 433);
             this.groupControl1.TabIndex = 20;
-            this.groupControl1.Text = "بيانات المشتريات";
+            this.groupControl1.Text = "بيانات المبيعات";
             // 
             // groupControl5
             // 
