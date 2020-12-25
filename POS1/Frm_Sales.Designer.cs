@@ -570,7 +570,7 @@
             this.groupControl1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.groupControl1.Size = new System.Drawing.Size(1114, 433);
             this.groupControl1.TabIndex = 20;
-            this.groupControl1.Text = "بيانات المشتريات";
+            this.groupControl1.Text = "بيانات المبيعات";
             // 
             // groupControl5
             // 
@@ -594,7 +594,7 @@
             this.groupControl5.Name = "groupControl5";
             this.groupControl5.Size = new System.Drawing.Size(294, 247);
             this.groupControl5.TabIndex = 20;
-            this.groupControl5.Text = "تأكيد المشتريات";
+            this.groupControl5.Text = "تأكيد المبيعات";
             this.groupControl5.Visible = false;
             // 
             // labelControl20
