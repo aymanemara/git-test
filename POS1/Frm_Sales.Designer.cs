@@ -594,7 +594,7 @@
             this.groupControl5.Name = "groupControl5";
             this.groupControl5.Size = new System.Drawing.Size(294, 247);
             this.groupControl5.TabIndex = 20;
-            this.groupControl5.Text = "تأكيد المشتريات";
+            this.groupControl5.Text = "تأكيد المبيعات";
             this.groupControl5.Visible = false;
             // 
             // labelControl20
